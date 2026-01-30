@@ -1,4 +1,4 @@
-⭐ Project Summary
+ Project Summary
 
 This project delivers a production-ready Microsoft 365 environment designed to support secure collaboration, centralized identity, and enterprise-grade data protection. The implementation includes:
 
@@ -12,7 +12,7 @@ Compliance, auditing, and governance controls
 
 The goal was to design a scalable, secure, and operationally governed Microsoft 365 tenant.
 
-🧱 Architecture
+ Architecture
 
 Microsoft 365 Tenant (Enterprise)
 
@@ -69,7 +69,7 @@ Least-privilege role assignments
 
 Documented operational workflows
 
-✅ Key Outcomes
+Key Outcomes
 
 Secure and centralized cloud identity platform
 
@@ -81,7 +81,7 @@ Improved organizational security posture
 
 Enhanced auditability and operational visibility
 
-🛠 Tools & Platforms
+Tools & Platforms
 
 Microsoft 365 Admin Center
 
@@ -97,7 +97,7 @@ Microsoft Defender for Office 365
 
 Compliance & Audit Center
 
-💡 Skills Demonstrated
+Skills Demonstrated
 
 Cloud identity & access administration
 
@@ -109,7 +109,7 @@ Governance & operational administration
 
 Tenant monitoring & troubleshooting
 
-🚀 Future Improvements
+Future Improvements
 
 Conditional Access + MFA enforcement
 
